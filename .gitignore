@@ -9,6 +9,6 @@ target/
 *
 
 # But keep these specific files and folders
-!department-service.properties
-!employee-service.properties
-!organization-service.properties
+!DEPARTMENT-SERVICE.properties
+!EMPLOYEE-SERVICE.properties
+!ORGANIZATION-SERVICE.properties
