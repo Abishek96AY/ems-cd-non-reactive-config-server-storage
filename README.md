@@ -1,2 +1,1 @@
-# ems-cd-non-reactive-config-server
-Config-Server
+ems-cd-non-reactive-config-server
